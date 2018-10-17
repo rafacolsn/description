@@ -1,7 +1,7 @@
-<p><img style="float: right;" src="http://image.noelshack.com/fichiers/2018/42/3/1539769904-img-1805.jpg" width="200"></p>
+<p align=center><img src="http://image.noelshack.com/fichiers/2018/42/3/1539769904-img-1805.jpg" width="200"></p>
 
-# Raphaël Colson
-
+# <p align=center> Raphaël Colson</p>
+#### <p align=center> infos</p>
 * Né à Rocourt le 11 juillet 1980
 * Habite à **Liège**
 * <raphcolson@gmail.com>
