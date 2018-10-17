@@ -1,4 +1,5 @@
 <p><img style="float: right;" src="http://image.noelshack.com/fichiers/2018/42/3/1539769904-img-1805.jpg" width="200"></p>
+
 # Raphaël Colson
 
 * Né à Rocourt le 11 juillet 1980
